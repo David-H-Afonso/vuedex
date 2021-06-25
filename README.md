@@ -1,2 +1,28 @@
 # vuedex
-I've made a fork to a project, re-made most html, css and re-write all the Vue to practise testing, Vue and API's.
+
+
+Este proyecto es par tener un mejor entendimiento de lo qu se tratan las pruebas en una aplicación de Vue
+
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
