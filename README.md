@@ -1,7 +1,7 @@
 # vuedex
 
 
-Este proyecto es par tener un mejor entendimiento de lo qu se tratan las pruebas en una aplicación de Vue
+Este proyecto es para tener un mejor entendimiento de lo que se tratan las pruebas en una aplicación de Vue y practicar con el framework.
 
 
 ## Project setup
