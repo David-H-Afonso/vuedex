@@ -2,9 +2,9 @@
   <footer>
     <p>
       Created by David Hormiga Afonso &copy; 2021 - Contacto
-      <a target="_blank" href="https://github.com/David-H-Afonso">GitHub / </a
-      ><a target="_blank" href="https://www.linkedin.com/in/david-hormiga-afonso/">LinkedIn / </a
-      ><a target="_blank" href="https://twitter.com/RikkuESP">Twitter</a>
+      <a rel="noopener" target="_blank" href="https://github.com/David-H-Afonso">GitHub / </a
+      ><a rel="noopener" target="_blank" href="https://www.linkedin.com/in/david-hormiga-afonso/">LinkedIn / </a
+      ><a rel="noopener" target="_blank" href="https://twitter.com/RikkuESP">Twitter</a>
     </p>
   </footer>
 </template>
